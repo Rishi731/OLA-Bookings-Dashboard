@@ -1,5 +1,6 @@
 # OLA-Bookings-Dashboard
-An interactive Power BI dashboard analyzing 71,000+ OLA ride bookings to uncover trends in ride status, cancellations, revenue, and customer behavior for actionable business insights.
+Developed an interactive Power BI dashboard using 71,000+ records of OLA ride bookings to highlight key business insights across five pages: Overall Performance, Vehicle Type, Revenue, Cancellations, and Ratings. The report helps identify trends in ride status, customer behavior, and operational efficiency for clearer, data-driven decisions.
+
 <img width="1168" height="704" alt="image" src="https://github.com/user-attachments/assets/7d1539ec-5fed-4b34-afc1-792508887055" />
 <img width="1177" height="684" alt="image (1)" src="https://github.com/user-attachments/assets/737148c1-a8cc-4b52-bc35-f6595797b1b4" />
 <img width="1172" height="669" alt="image (2)" src="https://github.com/user-attachments/assets/400f499d-f4c5-4152-a7b4-772ac47dc856" />
